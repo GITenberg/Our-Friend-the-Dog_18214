@@ -1,0 +1,44 @@
+_repo: Our-Friend-the-Dog_18214
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Alden, Cecil
+    gutenberg_agent_id: '7879'
+    url: http://www.gutenberg.org/2009/agents/7879
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixera de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2006-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs'
+- !lcc 'QL'
+title: Our Friend the Dog
+url: http://www.gutenberg.org/ebooks/18214
