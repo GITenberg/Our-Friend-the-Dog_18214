@@ -42,5 +42,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Dogs'
 - !lcc 'QL'
+- GITenberg
 title: Our Friend the Dog
 url: http://www.gutenberg.org/ebooks/18214
